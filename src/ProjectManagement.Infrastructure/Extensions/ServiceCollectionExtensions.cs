@@ -18,7 +18,7 @@ public static class ServiceCollectionExtensions
 {
     public static void AddInfrastructure(this IServiceCollection services, IConfiguration configuration)
     {
-        var connectionString = "Server = DESKTOP-S2EDD7S\\SQLEXPRESS ; Database = ProjectManagement ; Integrated Security = SSPI ; TrustServerCertificate = True";//configuration.GetConnectionString("cs");
+        var connectionString = configuration.GetConnectionString("cs");
         services.AddDbContext<AppDbContext>(opt =>
         {
             opt.UseSqlServer(connectionString);
