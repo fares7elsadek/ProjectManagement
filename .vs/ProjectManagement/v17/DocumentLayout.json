@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fares\\RiderProjects\\ProjectManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48CEAD36-4683-4625-B896-C7D9FBE0BEF4}|src\\ProjectManagement.Application\\ProjectManagement.Application.csproj|c:\\users\\fares\\riderprojects\\projectmanagement\\src\\projectmanagement.application\\services\\auth\\login\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CEAD36-4683-4625-B896-C7D9FBE0BEF4}|src\\ProjectManagement.Application\\ProjectManagement.Application.csproj|solutionrelative:src\\projectmanagement.application\\services\\auth\\login\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 354,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\fares\\RiderProjects\\ProjectManagement\\src\\ProjectManagement.Application\\Services\\Auth\\Login\\LoginService.cs",
+              "RelativeDocumentMoniker": "src\\ProjectManagement.Application\\Services\\Auth\\Login\\LoginService.cs",
+              "ToolTip": "C:\\Users\\fares\\RiderProjects\\ProjectManagement\\src\\ProjectManagement.Application\\Services\\Auth\\Login\\LoginService.cs",
+              "RelativeToolTip": "src\\ProjectManagement.Application\\Services\\Auth\\Login\\LoginService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:02:13.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
